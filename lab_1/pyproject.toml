@@ -10,7 +10,6 @@ dependencies = [
     "notebook>=7.0",
     "pystac-client>=0.8",
     "planetary-computer>=1.0",
-    "odc-stac>=0.3",
     "imageio[ffmpeg]>=2.34",
     "pillow>=10.0",
 ]
